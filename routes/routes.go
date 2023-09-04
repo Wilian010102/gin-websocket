@@ -1,7 +1,7 @@
 package routes
 
 import (
-	_"go-gin-student/docs" //kunci nya biar work
+	_"go-gin-student/docs" //key for work
 	"go-gin-student/controllers"
 	"github.com/gin-gonic/gin"
 	"github.com/swaggo/files"
